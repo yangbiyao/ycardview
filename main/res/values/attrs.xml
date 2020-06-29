@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YCardView">
+        <attr name="YCardView_ShadowStartColor" format="color" />
+        <attr name="YCardView_ShadowEndColor" format="color" />
+        <attr name="YCardView_ConnerRadius" format="dimension" />
+        <attr name="YCardView_ShadowWith" format="dimension" />
+    </declare-styleable>
+</resources>
